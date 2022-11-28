@@ -1,0 +1,27 @@
+*{box-sizing: border-box;}
+.navHeader{background-color:rgba(37, 36, 36,0.8);}
+.first-content img{width: 108px;height: 40px;}
+.collapse{justify-content: flex-end!important;}
+.second-content ul li{display: inline-block;margin-right: 20px;}
+.second-content ul li a{text-decoration: none;color: #EEE;}
+
+.dropbtn {color: white;text-align: center;text-decoration: none;}
+.dropdown-content {display: none;position: absolute;margin-left:5px;background-color:white;min-width: 100px;;box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);z-index: 1;}
+.dropdown-content a {color: black!important;padding: 6px 8px;text-decoration: none;display: block;text-align: left;}
+.dropdown-content a:hover {background-color:darkgrey;}
+.dropdown:hover .dropdown-content {display: block;}
+.forCarMargin{margin-bottom: -4px!important;}
+
+.row{margin-right: 0!important;margin-left: 0!important;}
+.forHeaders{margin-top: 80px!important;}
+
+.form{width: 100%;margin: auto;text-align: center;}
+.form .form-group{margin-bottom: 10px;}
+.form .form-group .forRes{position:relative;width: 100%!important;display: inline-grid!important;}
+.form .form-group i{position: absolute;top: 12px;right: 15px; font-size: 10px;}
+.form .form-group .alert-danger,.alert-danger p{margin-bottom: 0!important;}
+.form .form-group .sub{width: 100%!important;display: inline!important;}
+.form .form-group .custom-alert{padding: 5px 10px;display:none;}
+.mbbb{margin-left: -115px!important;}
+
+.iconNotFound{margin-top: 30px; font-size: 50px; color:#0069D9;}
